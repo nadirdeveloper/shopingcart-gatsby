@@ -1,0 +1,24 @@
+.banner{
+    background-color: royalblue;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bannerh1{
+    color: white;
+    font-size: 35px;
+}
+.mainDiv{
+    margin-top: 100px;
+}
+.mainDiv h1{
+    text-align: center;
+
+}
+.mainDiv h1 span{
+    background-color: royalblue;
+    color: white;
+    padding: 10px 100px;
+}
